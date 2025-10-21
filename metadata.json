@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Business Lead Finder",
+  "description": "Upload a CSV or XLSX file with business names and websites. The application will use AI to find the owner's name and email for each business, updating the table in real-time. You can then download the enriched list.",
+  "requestFramePermissions": []
+}
